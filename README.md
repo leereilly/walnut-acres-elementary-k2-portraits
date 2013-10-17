@@ -2,6 +2,10 @@
 
 ![](http://leereilly.net/walnut-acres-elementary-k2-portraits/myimages/cm1.jpg)
 
+View the photo :cd: hosted for **FREE** on *GitHub Pages* [here](http://leereilly.net/walnut-acres-elementary-k2-portraits) :point_left:
+
+--
+
 #### License Agreement
 
 By accessing the Images, you accept the terms of this License Agreement.
