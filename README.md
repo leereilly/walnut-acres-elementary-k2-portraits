@@ -1,4 +1,8 @@
-## License Agreement
+### Ally's Kindergarten Portraits :star2: :sparkles: :dizzy:
+
+![](http://leereilly.net/walnut-acres-elementary-k2-portraits/myimages/cm1.jpg)
+
+#### License Agreement
 
 By accessing the Images, you accept the terms of this License Agreement.
 Lifetouch National School Studios Inc. (“Lifetouch”) is pleased to license our professional portraits to you under the 
