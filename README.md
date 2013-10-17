@@ -1,6 +1,7 @@
 ### Ally's Kindergarten Portraits :star2: :sparkles: :dizzy:
 
-![](http://leereilly.net/walnut-acres-elementary-k2-portraits/myimages/cm1.jpg)
+<img src="http://leereilly.net/walnut-acres-elementary-k2-portraits/myimages/cm1.jpg" height="400">&nbsp;
+<img src="http://i.imgur.com/ZGLOzsR.png" height="400">
 
 View the photo :cd: hosted for **FREE** on *GitHub Pages* [here](http://leereilly.net/walnut-acres-elementary-k2-portraits) :point_left:
 
